@@ -1,0 +1,19 @@
+*body{
+   background-color: blue;
+}
+
+    ul{
+    color: brown;
+    font-size: large;
+    }
+    #districtName{
+      color: red;
+      border: 1px solid black;
+      padding: 20px  ;
+      margin: 60px;
+   
+   }
+
+      .Tab{
+      background: red;
+    }
